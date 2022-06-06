@@ -80,7 +80,7 @@ class TransactionFormCubit extends Cubit<TransactionFormState> {
         emit(
           const FatalErrorFormState(
             {
-              'title': 'Our server is unavaible',
+              'title': 'Our server is unavailable',
               'message': 'Timeout submitting the transaction.'
             },
           ),
