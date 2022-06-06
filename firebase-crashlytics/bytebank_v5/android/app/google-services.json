@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244218257516",
+    "project_id": "alura-bytebank-4f804",
+    "storage_bucket": "alura-bytebank-4f804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244218257516:android:733e581075c56c62ff7849",
+        "android_client_info": {
+          "package_name": "com.example.bytebank_v5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244218257516-5l4rcfgfllfl1m5a6u196jlfdkacgmvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt_kHqxfv3X4Ksn1DGBN4lST-9cfeT3uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244218257516-5l4rcfgfllfl1m5a6u196jlfdkacgmvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
