@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:bytebank_v8/components/localization/i18n_messages.dart';
 import 'package:bytebank_v8/components/localization/i18n_state.dart';
 import 'package:bytebank_v8/components/localization/i18n_cubit.dart';
-import 'package:bytebank_v8/components/progress.dart';
+import 'package:bytebank_v8/components/progress/progress_view.dart';
 import 'package:bytebank_v8/components/error/error_view.dart';
 
 typedef I18NWidgetCreator = Widget Function(I18NMessages messages);

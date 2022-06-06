@@ -6,7 +6,7 @@ import 'dart:async';
 import 'package:bytebank_v8/http/web_clients/transaction_web_client.dart';
 import 'package:bytebank_v8/components/transaction_auth_dialog.dart';
 import 'package:bytebank_v8/components/container.dart';
-import 'package:bytebank_v8/components/progress.dart';
+import 'package:bytebank_v8/components/progress/progress_view.dart';
 import 'package:bytebank_v8/models/transaction.dart';
 import 'package:bytebank_v8/components/error/error_view.dart';
 import 'package:bytebank_v8/models/contact.dart';

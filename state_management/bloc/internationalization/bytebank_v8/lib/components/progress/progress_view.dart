@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:bytebank_v8/components/progress.dart';
+import 'package:bytebank_v8/components/progress/progress.dart';
 
 class ProgressView extends StatelessWidget {
   final String message;
